@@ -1,6 +1,16 @@
 Miscellanous scripts for miscellaneous tasks, some for work, some for fun
 ================================
 
+calibre-kindle-clippings.pl
+-------------------------
+
+A sample script demonstrating Calibre::Kindle::Clippings usage
+
+Calibre::Kindle::Clippings
+-------------------------
+
+A Perl module for parsing the Kindle Clippings file created by Calibre (the open source e-book manager)
+
 cisco-asa-threat-drop-rate-stats.pl
 -------------------------
 
